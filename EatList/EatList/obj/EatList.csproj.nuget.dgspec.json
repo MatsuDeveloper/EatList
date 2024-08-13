@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList.csproj": {}
+    "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList\\EatList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList.csproj": {
+    "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList\\EatList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList.csproj",
+        "projectUniqueName": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList\\EatList.csproj",
         "projectName": "EatList",
-        "projectPath": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList.csproj",
+        "projectPath": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList\\EatList.csproj",
         "packagesPath": "C:\\Users\\brgp2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\obj\\",
+        "outputPath": "C:\\Users\\brgp2\\Projetos\\VS Code\\EatList\\EatList\\EatList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brgp2\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,12 +53,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.7, 8.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.7, 8.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.7, 8.0.7]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EatList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee3863514474df8e39b24177362dbda7b6148f7")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edcc4b2644bf56ac0e75214c9fe8cefe210cbddd")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("EatList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EatList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

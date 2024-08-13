@@ -1,0 +1,14 @@
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\bin\Debug\net8.0\EatList.exe
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\bin\Debug\net8.0\EatList.deps.json
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\bin\Debug\net8.0\EatList.runtimeconfig.json
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\bin\Debug\net8.0\EatList.dll
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\bin\Debug\net8.0\EatList.pdb
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.AssemblyInfoInputs.cache
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.AssemblyInfo.cs
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.csproj.CoreCompileInputs.cache
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.dll
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\refint\EatList.dll
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.pdb
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\EatList.genruntimeconfig.cache
+C:\Users\brgp2\Projetos\VS Code\EatList\EatList\obj\Debug\net8.0\ref\EatList.dll
